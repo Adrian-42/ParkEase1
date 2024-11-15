@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkEase1", "ParkEase1\ParkEase1.csproj", "{F5A62DA8-0282-4546-A3CF-7D4B5D988760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A62DA8-0282-4546-A3CF-7D4B5D988760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A62DA8-0282-4546-A3CF-7D4B5D988760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A62DA8-0282-4546-A3CF-7D4B5D988760}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F5A62DA8-0282-4546-A3CF-7D4B5D988760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A62DA8-0282-4546-A3CF-7D4B5D988760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A62DA8-0282-4546-A3CF-7D4B5D988760}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A88D1CF2-2412-4C9F-B615-93F32A3AACA2}
+	EndGlobalSection
+EndGlobal
